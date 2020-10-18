@@ -1,1 +1,1 @@
-
+The ImechE project was based on creating a Line Launcher device which was able to automatically align the ball to its target and activate the ball once the device can position the ball appropriately. My task was to create an electronic circuit, where the device can adjust the angle of the target and to pull the ball back in order to fire the ball at a good distance.
