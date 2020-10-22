@@ -1,0 +1,1 @@
+The MPU-6050 ic contains an gyro and an accelerometer in a single chip. It contains a 16-bit analogue to digital conversion hardware and it uses the I2C interface with the Arduino. The schematic contains the sensor, 3.3V regulator in order to operate the sensor and some passive components
