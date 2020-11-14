@@ -1,0 +1,1 @@
+This project was based on researching existing home automation products and to design your own custom made. My task was to create a security fire alarm system device, where the the system identifies for an intruder and to notify the owner of the house.
